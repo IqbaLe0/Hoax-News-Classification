@@ -94,10 +94,3 @@ Model dievaluasi menggunakan:
 - Confusion Matrix
 
 ---
-
-## ⚙️ Requirements
-
-Install dependency utama:
-
-```bash
-pip install -r requirements.txt
