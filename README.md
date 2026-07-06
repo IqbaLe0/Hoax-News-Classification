@@ -20,7 +20,11 @@ Tujuan utama:
 
 ## 📊 Dataset
 
-Dataset yang digunakan merupakan gabungan dari beberapa sumber:
+Dataset yang digunakan pada proyek ini berasal dari Kaggle.
+
+### 📌 Kaggle Dataset
+- Dataset utama diambil dari Kaggle:  
+  [https://www.kaggle.com/datasets/xxxx/xxxx](https://www.kaggle.com/datasets/linkgish/indonesian-fact-and-hoax-political-news)
 
 ### ✅ Kelas Faktual (Label 0)
 - CNN Indonesia (`dataset_cnn_10k.xlsx`)
